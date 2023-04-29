@@ -1,0 +1,10 @@
+.imgLogo {
+    width: 10rem;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+li {
+    margin: 2rem;
+    cursor: pointer;
+}
